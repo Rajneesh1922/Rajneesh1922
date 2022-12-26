@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rajneesh1922
+- 👋 Hi, I’m @Rajneesh
 - 👀 I’m interested in .. learning new technology
-- 🌱 I’m currently learning .. new skill.
+- 🌱 I’m currently learning .. web devolopement.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... rajneeshchauhan2003@gmail.com this is my mail id
 
